@@ -1,27 +1,11 @@
 # Environment variables
 .env
 
-# Database files
-*.db
-*.sqlite
-*.sqlite3
-
 # Exports directory
 exports/
-
-# Data directory
-CSVs/
-
-# Tableau files
-*.twbx
 
 # MacOS specific files
 .DS_Store
 .AppleDouble
 .LSOverride
 ._*
-
-# Python cache files
-__pycache__/
-*.py[cod]
-*$py.class
